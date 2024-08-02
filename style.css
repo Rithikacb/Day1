@@ -1,0 +1,44 @@
+section{
+    /*  background-color: rgb(17, 17, 16) ;*/
+  }
+  #about{
+      color: #810707;
+      text-align: center;
+      font-size:x-large
+  
+  }
+  #skill{
+    /*  background-color: rgb(22, 22, 22);*/
+      color: #6d0c0c;
+    /* text-align:center;*/
+    float: left;
+     font-size: x-large;
+  }
+  header{
+   /*   background-color: rgb(1, 31, 16);*/
+      color:#be1a1a;
+      padding: 1em 0;
+      text-align: center;
+      font-size: xx-large;
+  
+  }
+  body{
+      background-image: url('https://cgaskell9367.wordpress.com/wp-content/uploads/2015/04/watercolor3.jpg');
+  }
+  #home{
+      color: #aa2222;
+      text-align: center;
+      font-size: x-large
+  }
+  #contact{
+      color: #c02929;
+      text-align: center;
+      float: right;
+      font-size:x-large
+      
+  
+      
+  
+  
+  }
+  
